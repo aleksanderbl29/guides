@@ -1,0 +1,8 @@
+---
+title: Hvordan laver man kort i R?
+description: |
+  Jeg gennemgår hvordan man laver kort over Danmark i R ved hjælp af DAWA
+date: 2024-05-17
+categories: [R, API]
+draft: false
+---
